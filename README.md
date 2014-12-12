@@ -1,4 +1,5 @@
 > I maintain this version to meet my personal needs, I would be glad if you find it useful.
+
 # nginx syntax files for Vim.
 
 *NOTE*: As of Dec. 2013, these scripts are maintained in the "contrib" directory of the Nginx source:
